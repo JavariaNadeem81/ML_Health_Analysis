@@ -1,0 +1,16 @@
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore virtual environments
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Ignore large data or private folders
+Private_Projects/
+Bio_Pyhton/
